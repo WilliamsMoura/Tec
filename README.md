@@ -1,0 +1,2 @@
+# Tec
+Repositorio
